@@ -1,1 +1,1 @@
-# CloudCourse
+# Cloud course
