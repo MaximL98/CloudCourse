@@ -1,16 +1,10 @@
-![Cloud Course Banner](banner-image-link)
+# Cloud Computing Course Exercises 
 
-# Cloud Course
-Welcome to the Cloud Course repository! This course covers essential cloud computing concepts, tools, and best practices.
+![Logo](https://govos.com/wp-content/uploads/2022/02/Leveraging-the-Cloud_1100x500.png)
 
-![Cloud Architecture Diagram](images/cloud-architecture-diagram.png)
 
-6. **Add badges**: Incorporate badges to display relevant information such as course progress or build status [dev.to](https://dev.to/dailydotdev/creating-a-killer-github-profile-readme-part-1-33nm).
+##
+This repository contains exercises from the Cloud Computing course I'm taking at college. In this README, I'll provide an overview of the course and the exercises included in this repository.
+## Authors
 
-Example:
-```markdown
-![Course Progress](https://progress-bar.dev/75/?title=Progress)
-
-## Additional Resources
-- [Official AWS Documentation](https://aws.amazon.com/documentation/)
-- [Cloud Course Blog](https://cloudcourseblog.com)
+- [@MaximL98](https://github.com/MaximL98)
